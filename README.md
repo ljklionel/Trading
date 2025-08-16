@@ -93,7 +93,7 @@ Downtrend: LH → LL → LH → LL
 
 Proper Diagram:
 
-![HHHLLHLL diagram](image/market_structure_hh_hl_lh_ll.png)
+![HHHLLHLL diagram](images/market_structure_hh_hl_lh_ll.png)
 
 Recommended to start out swing trading. Easiest and most passive while mgetting massive profits.
 
@@ -261,7 +261,7 @@ Features:
   - SL = 1.1030
   - TP = 1.1120
   ```
-  ![Buy stop](image/buy_stop_setup.png)
+  ![Buy stop](images/buy_stop_setup.png)
   
   - Sell Stop
   ```
@@ -286,7 +286,7 @@ Features:
   - SL = 1.0970
   - TP = 1.0880
   ```
-  ![Sell stop](image/sell_stop_setup.png)
+  ![Sell stop](images/sell_stop_setup.png)
   
   - Buy Limit
   ```
@@ -311,7 +311,7 @@ Features:
   - SL = 1.0920
   - TP = 1.1050
   ```
-  ![Sell stop](image/buy_limit_setup.png)
+  ![Sell stop](images/buy_limit_setup.png)
   
   - Sell Limit  (Place above price and if market goes to that level, it will trigger a sell)
   ```
@@ -336,7 +336,7 @@ Features:
   - SL = 1.1080
   - TP = 1.0950
   ```
-  ![Sell stop](image/sell_limit_setup.png)
+  ![Sell stop](images/sell_limit_setup.png)
   
 - Stops (Buy Stop / Sell Stop): Profit from breakouts (when price breaks through support/resistance).
 - Limits (Buy Limit / Sell Limit): Profit from reversals (when price bounces off support/resistance).
@@ -504,7 +504,7 @@ Understanding Risk:Reward is crucial for long-term success in Forex.
     - TP = 1.1100 (reward 100 pips)  
     - ✅ R:R = 1:2 (good trade).
   
-![strategies](image/eurusd_strategy_integration_sl_tp.png)
+![strategies](images/eurusd_strategy_integration_sl_tp.png)
 ---
 
 ## Trade Setup Example
