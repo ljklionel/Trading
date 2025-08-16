@@ -374,7 +374,7 @@ Understanding Risk:Reward is crucial for long-term success in Forex.
 ---
 
 📊 Risk:Reward Ratios Diagram
-![Risk Reward Ratios](risk_reward_ratios.png)
+![Risk Reward Ratios](images/risk_reward_ratios.png)
 
 ---
 
